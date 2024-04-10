@@ -1,0 +1,1 @@
+Build and Run in main to run with a Java IDE. All outputs are in console. 
